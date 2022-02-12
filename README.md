@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ProfessorPiggos
-- 👀 I’m interested in Discord Bots, Minecraft Modding, and algorithms.
+- 👀 I’m interested in Robotics, Minecraft Modding, and algorithms.
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me - ProfessorPiggos#3809 on Discord.
