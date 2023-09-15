@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ProfessorPiggos
-- - 🌱 Studying computer science at the University of Wisconsin-Madison
+- 🌱 Studying computer science at the University of Wisconsin-Madison
 - 👀 I’m interested in Robotics, GraphQL, Django, Minecraft Modding, and more!
 - 📫 If you need to reach me, please add me at ProfessorPiggos#3809 on Discord.
