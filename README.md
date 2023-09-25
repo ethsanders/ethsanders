@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethsanders
-- 🌱 Studying computer science at the University of Wisconsin-Madison
+- 👋 Hi, I’m @ethsanders.
+- 🌱 Studying computer science at the University of Wisconsin-Madison.
 - 👀 I’m interested in Robotics, GraphQL, Django, and more!
 - 📫 If you need to reach me, please email me at essanders@wisc.edu.
