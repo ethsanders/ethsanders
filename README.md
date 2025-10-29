@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ethsanders
-- 🌱 Studying computer science at the Georgia Institute of Technology
+- 🌱 Studying Computer Engineering at the Georgia Institute of Technology
 - 👀 I’m interested in Robotics, GraphQL, Django, and more!
 - 📫 If you need to reach me, please email me at esanders@gatech.edu
